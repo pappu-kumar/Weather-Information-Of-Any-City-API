@@ -7,6 +7,6 @@
 
 
 <h2>Weather Status:</h2>
-<p>After fatch the data from API it will show the specifc city information</p>
+<p>After fatch the data from API it will show the specifc City Weather Status information</p>
 
 ![](images/second.png)
